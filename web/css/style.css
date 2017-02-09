@@ -1,0 +1,43 @@
+button{
+/*    margin-left: 46%;*/
+    padding: 15px;
+    border-radius: 75%;
+    position: relative;
+    background-color: silver;
+}
+button a{
+    color: green;
+    text-decoration: none;
+    font-size: 50px;
+/*    font-family: fantasy;*/
+}
+#selection{
+    position: relative;
+    width: 300px;
+    display: none;
+}
+#selection > input{
+    width: 100%;
+    background-color: rgba (0,0,0,0.7);
+}
+#selection > input[type='text']{
+    background-color: rgba (255,255,255,0.4);
+    margin-bottom: 10px;
+    border: 0px;
+    border-bottom: 2px solid rgba(0,0,0,0.7);
+    outline: none;
+}
+#selection > input[type='text']:hover{
+    background-color: rgba (0,0,0,0.2);
+    border-bottom: 2px solid rgba(0,0,0,0.4);
+}
+#selection > input[type='submit']{
+    background-color: rgba (255,255,255,0.4);
+    margin: 10px 0 5px 0;
+    border: 2px solid rgba(0,0,0,0.7);
+}
+#selection > input[type='submit']:hover{
+    background-color: rgba (0,0,0,0.8);
+    border: 2px solid rgba(0,0,0,0.2);
+    color: white;
+}
