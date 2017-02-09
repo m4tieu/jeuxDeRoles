@@ -13,7 +13,8 @@ BECERRA Mathieu
 > 
 > Nous admetons que les technologies utilisés ne sont pas adaptées a ce genre de production  
 > Nous avons deux jours pour réaliser le produit. Nous conseiderons donc les fonctionnalités en premier.  
->  
+<  
+
 ### Technologie :
 * [NetBeans 8.2] - IDE
 * [Symfony 3.2.3] - Framework php
