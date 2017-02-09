@@ -13,7 +13,7 @@ BECERRA Mathieu
 > 
 > Nous admetons que les technologies utilisés ne sont pas adaptées a ce genre de production  
 > Nous avons deux jours pour réaliser le produit. Nous conseiderons donc les fonctionnalités en premier.  
-<  
+  
 
 ### Technologie :
 * [NetBeans 8.2] - IDE
@@ -22,7 +22,8 @@ BECERRA Mathieu
 * [PHP 7.0.13] - Language de programmation
 * [HTML/CSS] - pages HyperText Markup Language et Cascading Style Sheets
 * [Twig] - Moteur de templates HTML
-* [Chrome] - Navigateur internet
+* [Chrome] - Navigateur internet  
+
 ### Installation :
 * Installation Netbeans selon système d'exploitation
 <https://netbeans.org/downloads/>
