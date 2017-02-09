@@ -25,12 +25,11 @@ BECERRA Mathieu
 * [Chrome] - Navigateur internet  
 
 ### Installation :
-* Installation Netbeans selon système d'exploitation
+* Installation Netbeans selon système d'exploitation  
 <https://netbeans.org/downloads/>
-* Installation Symfony via NetBeans
+* Installation Symfony via NetBeans  
 <http://symfony.com/download>
-* Installation de google chrome selon système d'exploitation
+* Installation de google chrome selon système d'exploitation  
 <https://www.google.fr/chrome/browser/desktop/index.html?brand=CHBD&gclid=CjwKEAiAoOvEBRDD25uyu9Lg9ycSJAD0cnByU9G6nLvqhWnk1lIGcJ87pGMGMBfIHZkrXpP6vsTM1RoCqwDw_wcB>
-* Installation PHP selon système d'exploitation
+* Installation PHP selon système d'exploitation  
 <http://php.net/manual/fr/install.php>
-
